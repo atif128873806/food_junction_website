@@ -1,0 +1,39 @@
+version: 1
+id: tandoori-junction
+name: Tandoori Junction
+status: implementation
+description: Light white/red restaurant site in website/; system sans-serif, full-width PDF food hero with restrained GSAP motion, and a photo-led one-category menu without search. Five pages; no booking/admin/integrations.
+repository:
+  path: /home/atif/junction_food_resturant_website
+stack:
+  frontend: [Blade, Tailwind CSS, Alpine.js]
+  backend: [Laravel 12]
+  database: []
+  infrastructure: []
+default_skills: [context-intake, research, frontend-ui-ux]
+tools:
+  filesystem: true
+  terminal: true
+  git: false
+  browser: true
+  web: true
+  github: false
+  deployment: false
+verification:
+  - Run npm run build and php artisan test from website/.
+  - Verify source menu and approval before application changes.
+  - First UI slice requires actual 1440px and 390px browser screenshots.
+docs:
+  overview: PROJECT.md
+  rules: AGENTS.md
+  requirements: REQUIREMENTS.md
+  architecture: ARCHITECTURE.md
+  design: DESIGN.md
+  decisions: DECISIONS.md
+  tasks: TASKS.md
+  roadmap: ROADMAP.md
+  memory: MEMORY.md
+  context_index: context/CONTEXT_INDEX.md
+  client_brief: context/CLIENT_BRIEF.md
+  sources: context/sources.yaml
+  handoff: memory/HANDOFF.md

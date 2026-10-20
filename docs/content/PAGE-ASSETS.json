@@ -1,0 +1,197 @@
+[
+  {
+    "id": "street-table",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "page": 4,
+    "extracted_path": "tmp/assets/menu-food/menu-000.jpg",
+    "sha256": "e849bc70e0607fee6123927333396f1d530e6f33f51c348d7de005a24ffc02ed",
+    "processing": "Embedded JPEG extraction; ICC to sRGB, crop print border below y315 and 1–2px edge seams, responsive WebP encoding. No generated food.",
+    "derivatives": [
+      "website/public/images/street-table-640.webp",
+      "website/public/images/street-table-1274.webp"
+    ],
+    "authorization": "User supplied real images and asks to use PDF contents."
+  },
+  {
+    "id": "paneer-tandoor",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "page": 5,
+    "extracted_path": "tmp/assets/menu-food/menu-002.jpg",
+    "sha256": "bf65c55fe11bb025e3fcf27ddf104796bcf4a66b36ee915d3e0ebda9cd67f5c9",
+    "processing": "Embedded JPEG extraction; ICC to sRGB, crop print border below y315 and 1–2px edge seams, responsive WebP encoding. No generated food.",
+    "derivatives": [
+      "website/public/images/paneer-tandoor-640.webp",
+      "website/public/images/paneer-tandoor-1274.webp"
+    ],
+    "authorization": "User supplied real images and asks to use PDF contents."
+  },
+  {
+    "id": "chicken-tandoor",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "page": 6,
+    "extracted_path": "tmp/assets/menu-food/menu-004.jpg",
+    "sha256": "787973da7d124bbdd022c44ac64c79aa349c670ddbb3234889792dd8c03ced8e",
+    "processing": "Embedded JPEG extraction; ICC to sRGB, crop print border below y315 and 1–2px edge seams, responsive WebP encoding. No generated food.",
+    "derivatives": [
+      "website/public/images/chicken-tandoor-640.webp",
+      "website/public/images/chicken-tandoor-1274.webp"
+    ],
+    "authorization": "User supplied real images and asks to use PDF contents."
+  },
+  {
+    "id": "menu-category-drinks",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 2,
+    "extracted_source": "context/originals/menu-page-02-banner-source.jpg",
+    "source_sha256": "54ac743f218dfdeb40b1246f7abc5aa598e56b1fcc68a359b302f0b7510b915d",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-drinks-640.webp",
+      "website/public/images/menu-category-drinks-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  },
+  {
+    "id": "menu-category-appetizers",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 3,
+    "extracted_source": "context/originals/menu-page-03-banner-source.jpg",
+    "source_sha256": "cc4d371f96711085ca5597a47b20da164e8afcb837c26a6a2be6af4fcc99f0c3",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-appetizers-640.webp",
+      "website/public/images/menu-category-appetizers-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  },
+  {
+    "id": "menu-category-street-food",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 4,
+    "extracted_source": "context/originals/menu-page-04-banner-source.jpg",
+    "source_sha256": "e849bc70e0607fee6123927333396f1d530e6f33f51c348d7de005a24ffc02ed",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-street-food-640.webp",
+      "website/public/images/menu-category-street-food-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  },
+  {
+    "id": "menu-category-quick-meals",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 4,
+    "extracted_source": "context/originals/menu-page-04-banner-source.jpg",
+    "source_sha256": "e849bc70e0607fee6123927333396f1d530e6f33f51c348d7de005a24ffc02ed",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-quick-meals-640.webp",
+      "website/public/images/menu-category-quick-meals-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  },
+  {
+    "id": "menu-category-tandoori-veg",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 5,
+    "extracted_source": "context/originals/menu-page-05-banner-source.jpg",
+    "source_sha256": "bf65c55fe11bb025e3fcf27ddf104796bcf4a66b36ee915d3e0ebda9cd67f5c9",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-tandoori-veg-640.webp",
+      "website/public/images/menu-category-tandoori-veg-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  },
+  {
+    "id": "menu-category-tandoori-non-veg",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 6,
+    "extracted_source": "context/originals/menu-page-06-banner-source.jpg",
+    "source_sha256": "787973da7d124bbdd022c44ac64c79aa349c670ddbb3234889792dd8c03ced8e",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-tandoori-non-veg-640.webp",
+      "website/public/images/menu-category-tandoori-non-veg-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  },
+  {
+    "id": "menu-category-vegetarian-curries",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 7,
+    "extracted_source": "context/originals/menu-page-07-banner-source.jpg",
+    "source_sha256": "1b0a6cba50cd211e180887ace5d8e69bf3c4d73fb05d38bb67a89db689729760",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-vegetarian-curries-640.webp",
+      "website/public/images/menu-category-vegetarian-curries-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  },
+  {
+    "id": "menu-category-non-vegetarian-curries",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 8,
+    "extracted_source": "context/originals/menu-page-08-banner-source.jpg",
+    "source_sha256": "2d5a94ecbd80cfa99f39962ec4157e018d6a5e482b13c33c5071d35f84e7baa2",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-non-vegetarian-curries-640.webp",
+      "website/public/images/menu-category-non-vegetarian-curries-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  },
+  {
+    "id": "menu-category-hakka-soup",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 9,
+    "extracted_source": "context/originals/menu-page-09-banner-source.jpg",
+    "source_sha256": "a3fb51239a0960de513461b1602e129a66f3b28db3d6a6a3a24e26e907620c35",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-hakka-soup-640.webp",
+      "website/public/images/menu-category-hakka-soup-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  },
+  {
+    "id": "menu-category-breads-sides",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 10,
+    "extracted_source": "context/originals/menu-page-10-banner-source.jpg",
+    "source_sha256": "391df30adb0d2178625cdd5957e8808236514f679ead6d5121d469eaa9891b69",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-breads-sides-640.webp",
+      "website/public/images/menu-category-breads-sides-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  },
+  {
+    "id": "menu-category-biryani-rice",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 11,
+    "extracted_source": "context/originals/menu-page-11-banner-source.jpg",
+    "source_sha256": "28f1cfc73c9946c1acdcc2f84bc652a36a3155119413c8300b61e282797304bd",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-biryani-rice-640.webp",
+      "website/public/images/menu-category-biryani-rice-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  },
+  {
+    "id": "menu-category-beverages-desserts",
+    "source": "context/originals/Proof_Dine-In_Menu_TJ.pdf",
+    "source_page": 12,
+    "extracted_source": "context/originals/menu-page-12-banner-source.jpg",
+    "source_sha256": "9784e80ae590ba702215b636cf89c79341a71632ba16ac9cef4d291557b17d7d",
+    "processing": "Embedded JPEG extracted with pdfimages; converted from embedded ICC profile to sRGB; one-pixel seams and 70px lower print footer cropped; responsive WebP derivatives at 640px and 1274px wide. No generated food.",
+    "derivatives": [
+      "website/public/images/menu-category-beverages-desserts-640.webp",
+      "website/public/images/menu-category-beverages-desserts-1274.webp"
+    ],
+    "authorization": "User requested use of real photos in the supplied Tandoori Junction PDF."
+  }
+]

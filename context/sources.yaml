@@ -1,0 +1,157 @@
+version: 1
+sources:
+  - id: SRC-BRIEF-001
+    type: user-request
+    received_at: '2026-10-17'
+    authority: current-explicit-user-instruction
+    processing_status: processed
+    locator: Current chat detailed Tandoori Junction project brief
+    summary_path: context/CLIENT_BRIEF.md
+    note: Scope approved by explicit request; creative direction still requires approval.
+  - id: SRC-MENU-001
+    type: pdf-print-proof
+    received_at: '2026-10-17'
+    original_path: /home/atif/Downloads/Proof_Dine-In Menu_T J.pdf
+    local_path: context/originals/Proof_Dine-In_Menu_TJ.pdf
+    sha256: e218205f2480ae5d6afd2f4fd579b881bcde007561696b3cd052871ad146bcb9
+    authority: user-designated-authoritative-starting-evidence
+    processing_status: processed
+    pages_visually_reviewed: [1,2,3,4,5,6,7,8,9,10,11,12]
+    summary_path: docs/research/MENU-AUDIT.md
+    transcription_path: docs/content/MENU-DATA.md
+    conflicts: [Q01,Q02,Q03,Q04,Q05,Q06,Q07,Q08,Q09,Q10,Q11]
+    pending_verification: [Q12,Q13,Q14,Q15,Q16]
+    note: Processed does not mean approved for publication; text extraction blank; manual visual transcription.
+  - id: SRC-REF-001
+    type: website
+    url: https://www.dishoom.com/
+    observed_at: '2026-10-17'
+    roles: [visual, structure, ux, storytelling]
+    authority: reference-only
+    processing_status: processed
+    summary_path: docs/research/REFERENCES.md
+    note: Browser screenshot/content inspected; narrow viewport behavior unverified.
+  - id: SRC-REF-002
+    type: website
+    url: https://gymkhanalondon.com/
+    observed_url: https://gymkhanarestaurants.com/
+    observed_at: '2026-10-17'
+    roles: [visual, structure, ux, storytelling]
+    authority: reference-only
+    processing_status: processed
+    summary_path: docs/research/REFERENCES.md
+    note: Live browser succeeded with redirect; web retrieval 403; mobile behavior unverified.
+  - id: SRC-REF-003
+    type: website
+    url: https://www.indianaccent.com/newdelhi
+    observed_at: '2026-10-17'
+    roles: [visual, structure, ux, menu-discovery]
+    authority: reference-only
+    processing_status: processed
+    summary_path: docs/research/REFERENCES.md
+    note: Browser desktop and narrow screenshot inspected; not a comprehensive interaction audit.
+  - id: SRC-FONT-001
+    type: official-specimen
+    url: https://fonts.google.com/specimen/Cormorant+Garamond
+    processing_status: pending
+    note: URL opened; actual font file/license/specimen testing not performed.
+  - id: SRC-FONT-002
+    type: official-specimen
+    url: https://fonts.google.com/specimen/Manrope
+    processing_status: pending
+    note: URL opened; actual font file/license/specimen testing not performed.
+  - id: SRC-FONT-003
+    type: official-specimen
+    url: https://fonts.google.com/specimen/Fraunces
+    processing_status: pending
+    note: URL opened; actual font file/license/specimen testing not performed.
+  - id: SRC-TECH-001
+    type: official-documentation
+    url: https://laravel.com/docs/12.x
+    observed_at: '2026-10-17'
+    processing_status: processed
+    note: Version 12 docs label version older; user still explicitly requests 12. Verify supported deployment window/package compatibility before implementation.
+  - id: SRC-APPROVAL-002
+    type: user-request
+    received_at: '2026-10-17'
+    authority: current-explicit-user-instruction
+    processing_status: processed
+    locator: User selected option B and requested inspection of both King Tandoori folders.
+    note: Approves B creative direction, not King Tandoori brand or business facts.
+  - id: SRC-APPROVAL-003
+    type: user-clarification
+    received_at: '2026-10-17'
+    authority: current-explicit-user-instruction
+    processing_status: processed
+    locator: Keep Tandoori Junction; references only
+  - id: SRC-KT-001
+    type: folder-reference
+    original_path: /home/atif/Downloads/King Tandoori - Markham Window Wraps
+    processing_status: processed
+    roles: [visual, brand-reference, photography-reference]
+    authority: reference-only
+    summary_path: docs/research/KING-TANDOORI-ASSETS.md
+    inventory_path: context/summaries/king-tandoori-inventory.json
+    note: Two PNGs and all 17 pages from 11 PDFs visually inspected. No reuse of logo/photos/claims authorized.
+  - id: SRC-REVISION-004
+    type: user-request
+    received_at: '2026-10-17'
+    authority: current-explicit-user-instruction
+    processing_status: processed
+    locator: User rejects design, selects A and directs supplied real images, no Unsplash.
+    supersedes: [SRC-APPROVAL-002, SRC-APPROVAL-003-photo-restriction]
+    note: Food-photo use authorized; no change to brand name or permission to borrow competitor claims.
+  - id: FOOD-USER-001
+    type: extracted-user-photo
+    processing_status: processed
+    authority: user-authorized-use
+    source: SRC-REVISION-004
+    local_path: context/originals/food-spread-source.jpg
+    manifest_path: docs/content/USED-ASSETS.json
+    note: Exact embedded JPEG from left-window 001, authorized by latest user instruction; competitor claims remain excluded.
+  - id: SRC-CLIENT-REF-005
+    type: user-request-and-reference-websites
+    received_at: '2026-10-17'
+    authority: current-explicit-user-instruction
+    processing_status: processed
+    urls: [https://kingtandoori.ca/, https://malai.ca/]
+    summary_path: docs/research/CLIENT-REFERENCES.md
+    note: User likes A; requests study and revised approval preview. Websites are reference-only; revision remains proposed.
+  - id: SRC-COMPLETION-006
+    type: user-approval
+    authority: current-explicit-user-instruction
+    processing_status: processed
+    locator: User approved client-study preview and said finish it please.
+    note: Adopt immersive A and complete remaining pages; do not stop at hero gate.
+  - id: SRC-SCOPE-007
+    type: user-clarification
+    authority: current-explicit-user-instruction
+    processing_status: processed
+    locator: Put whatever is in the PDF; no booking policy; pages only, professional design and show PDF menu.
+    note: Narrows delivery to five pages and source menu. No admin/database, booking or ordering integration. Printed local values permitted; no hours invented.
+  - id: SRC-LIGHT-008
+    type: user-design-direction
+    received_at: '2026-10-18'
+    authority: current-explicit-user-instruction
+    processing_status: processed
+    locator: User asks for a deep study of King Tandoori and requests white background, red accent, familiar type, simple restaurant presentation, menu photos from the PDF and removal of search.
+    supersedes: [SRC-COMPLETION-006 visual direction, SRC-SCOPE-007 search presentation]
+    note: Direct implementation request; no new creative approval gate. Use original category imagery honestly.
+  - id: SRC-KING-WEB-010
+    type: website-reference
+    url: https://kingtandoori.ca/
+    menu_url: https://kingtandoori.ca/menu/
+    observed_at: '2026-10-18'
+    roles: [visual, structure, ux, menu-discovery, responsive]
+    authority: reference-only
+    processing_status: processed
+    summary_path: docs/research/CLIENT-REFERENCES.md
+    note: Direct homepage screenshot and mobile menu screenshot; menu content inspected via live page. Mobile screenshot showed horizontal overflow. No competitor identity, image or business feature transferred.
+  - id: SRC-UX-011
+    type: user-design-direction
+    received_at: '2026-10-18'
+    authority: current-explicit-user-instruction
+    processing_status: processed
+    locator: Latest user message requesting expanded full-photo hero, food-focused GSAP animations, and shorter single-category menu browsing.
+    supersedes: [SRC-LIGHT-008 homepage length and menu presentation details only]
+    note: Retain light white/red site, system font, all 12 categories/169 entries and PDF imagery; animate only homepage food imagery, honor reduced motion, and avoid adding unconfirmed services.

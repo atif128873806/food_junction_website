@@ -1,0 +1,3297 @@
+{
+  "source": "Proof_Dine-In_Menu_TJ.pdf",
+  "status": "print-proof",
+  "groups": [
+    {
+      "slug": "drinks",
+      "name": "Mocktails, Shakes & Lassi",
+      "leaves": [
+        "Mocktails",
+        "Shakes",
+        "Lassi"
+      ]
+    },
+    {
+      "slug": "appetizers",
+      "name": "Appetizers",
+      "leaves": [
+        "Appetizer"
+      ]
+    },
+    {
+      "slug": "street-food",
+      "name": "Street Food",
+      "leaves": [
+        "Street Food"
+      ]
+    },
+    {
+      "slug": "quick-meals",
+      "name": "Quick Meals",
+      "leaves": [
+        "Quick Meals"
+      ]
+    },
+    {
+      "slug": "tandoori-veg",
+      "name": "Tandoori Veg",
+      "leaves": [
+        "Tandoori Veg Corner"
+      ]
+    },
+    {
+      "slug": "tandoori-non-veg",
+      "name": "Tandoori Non-Veg",
+      "leaves": [
+        "Tandoori Non Veg Corner"
+      ]
+    },
+    {
+      "slug": "vegetarian-curries",
+      "name": "Vegetarian Curries",
+      "leaves": [
+        "Vegetarian Curry Corner"
+      ]
+    },
+    {
+      "slug": "non-vegetarian-curries",
+      "name": "Non-Vegetarian Curries",
+      "leaves": [
+        "Non-Veg Curry Corner"
+      ]
+    },
+    {
+      "slug": "hakka-soup",
+      "name": "Hakka Chinese & Soup",
+      "leaves": [
+        "Hakka Chinese",
+        "Soup"
+      ]
+    },
+    {
+      "slug": "breads-sides",
+      "name": "Breads & Sides",
+      "leaves": [
+        "Breads",
+        "Sides"
+      ]
+    },
+    {
+      "slug": "biryani-rice",
+      "name": "Biryani & Rice",
+      "leaves": [
+        "Biryani",
+        "Rice"
+      ]
+    },
+    {
+      "slug": "beverages-desserts",
+      "name": "Beverages & Desserts",
+      "leaves": [
+        "Beverages",
+        "Dessert"
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "P02-01",
+      "name": "Virgin Mojito",
+      "description": "Classic/Mango/Pineapple/Strawberry/Watermelon. Lime, mint, and soda - a refreshing classic.",
+      "source_description": "Classic/Mango/Pineapple/Strawberry/Watermelon. Lime, mint, and soda - a refreshing classic.",
+      "category": "Mocktails",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-02",
+      "name": "Ocean Mojito",
+      "description": "A tropical mojito with coconut and blue curacao.",
+      "source_description": "A tropical mojito with coconut and blue curacao.",
+      "category": "Mocktails",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-03",
+      "name": "Pina Colada",
+      "description": "Pineapple and coconut in a creamy tropical blend",
+      "source_description": "Pineapple and coconut in a creamy tropical blend",
+      "category": "Mocktails",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-04",
+      "name": "Fruit Punch",
+      "description": "A burst of fresh, fruity flavors.",
+      "source_description": "A burst of fresh, fruity flavors.",
+      "category": "Mocktails",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-05",
+      "name": "Blue Lagoon",
+      "description": "Lemon and blue curacao for a vibrant sip.",
+      "source_description": "Lemon and blue curacao for a vibrant sip.",
+      "category": "Mocktails",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-06",
+      "name": "Masala Cola",
+      "description": "Fizzy cola infused with a tangy spice mix.",
+      "source_description": "Fizzy cola infused with a tangy spice mix.",
+      "category": "Mocktails",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$6.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-07",
+      "name": "Fresh Lime Soda",
+      "description": "Refreshing soda with zesty lime and a hint of salt.",
+      "source_description": "Refreshing soda with zesty lime and a hint of salt.",
+      "category": "Mocktails",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$5.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-08",
+      "name": "Cinderella",
+      "description": "A vibrant mocktail with fruity and citrusy flavors.",
+      "source_description": "A vibrant mocktail with fruity and citrusy flavors.",
+      "category": "Mocktails",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$6.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-09",
+      "name": "Sweet Sunrise",
+      "description": "Orange juice and grenadine with a sunrise look.",
+      "source_description": "Orange juice and grenadine with a sunrise look.",
+      "category": "Mocktails",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-10",
+      "name": "Guava Martini",
+      "description": "Sweet and fruity guava martini.",
+      "source_description": "Sweet and fruity guava martini.",
+      "category": "Mocktails",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-11",
+      "name": "Mango Shake",
+      "description": "A creamy and refreshing blend of ripe mangoes, perfect for mango lovers.",
+      "source_description": "A creamy and refreshing blend of ripe mangoes, perfect for mango lovers.",
+      "category": "Shakes",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$6.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-12",
+      "name": "Kit-Kat Shake",
+      "description": "A decadent mix of smooth chocolate and crunchy Kit-Kat pieces.",
+      "source_description": "A decadent mix of smooth chocolate and crunchy Kit-Kat pieces.",
+      "category": "Shakes",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-13",
+      "name": "Chocolate Shake",
+      "description": "A rich, velvety chocolate treat to satisfy your sweet cravings.",
+      "source_description": "A rich, velvety chocolate treat to satisfy your sweet cravings.",
+      "category": "Shakes",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$6.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-14",
+      "name": "Oreo Shake",
+      "description": "A delightful fusion of creamy milkshake and classic Oreo cookies.",
+      "source_description": "A delightful fusion of creamy milkshake and classic Oreo cookies.",
+      "category": "Shakes",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-15",
+      "name": "Rose Lassi",
+      "description": "A fragrant and refreshing yogurt drink infused with the essence of roses.",
+      "source_description": "A fragrant and refreshing yogurt drink infused with the essence of roses.",
+      "category": "Lassi",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$6.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-16",
+      "name": "Sweet Lassi",
+      "description": "A smooth and creamy yogurt delight, sweetened to perfection.",
+      "source_description": "A smooth and creamy yogurt delight, sweetened to perfection.",
+      "category": "Lassi",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$5.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-17",
+      "name": "Salted Lassi",
+      "description": "A savory and cooling yogurt-based drink, lightly seasoned with salt.",
+      "source_description": "A savory and cooling yogurt-based drink, lightly seasoned with salt.",
+      "category": "Lassi",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$5.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P02-18",
+      "name": "Mango Lassi",
+      "description": "A creamy blend of fresh mangoes and yogurt, bursting with tropical sweetness.",
+      "source_description": "A creamy blend of fresh mangoes and yogurt, bursting with tropical sweetness.",
+      "category": "Lassi",
+      "group": "drinks",
+      "page": 2,
+      "printed_price": "$6.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P03-01",
+      "name": "Veg Spring Roll (6 pcs)",
+      "description": "Crispy vegetables in a crunchy roll.",
+      "source_description": "Crispy vegetables in a crunchy roll.",
+      "category": "Appetizer",
+      "group": "appetizers",
+      "page": 3,
+      "printed_price": "$6.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P03-02",
+      "name": "Noodle Spring Rolls",
+      "description": "Crispy rolls packed with flavorful noodles - pure delight in every bite!",
+      "source_description": "Crispy rolls packed with flavorful noodles - pure delight in every bite!",
+      "category": "Appetizer",
+      "group": "appetizers",
+      "page": 3,
+      "printed_price": "$9.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "9.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P03-03",
+      "name": "Hara Bhara Kebab (4 pcs)",
+      "description": "Kebab made with spinach, potatoes and green peas.",
+      "source_description": "Kebab made with spinach, potatoes and green peas.",
+      "category": "Appetizer",
+      "group": "appetizers",
+      "page": 3,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P03-04",
+      "name": "Vegetable Bullets (4 pcs)",
+      "description": "Crispy fried vegetable bites seasoned with aromatic spices.",
+      "source_description": "Crispy fried vegetable bites seasoned with aromatic spices.",
+      "category": "Appetizer",
+      "group": "appetizers",
+      "page": 3,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P03-05",
+      "name": "Honey Chili Potatoes",
+      "description": "Fried chili potato fingers tossed in a sesame honey chili sauce that's sweet and spicy.",
+      "source_description": "Fried chili potato fingers tossed in a sesame honey chili sauce that's sweet and spicy.",
+      "category": "Appetizer",
+      "group": "appetizers",
+      "page": 3,
+      "printed_price": "$13.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "13.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P03-06",
+      "name": "Paneer Pakora",
+      "description": "Marinated pieces of homemade cottage cheese, golden fried and served with chutney.",
+      "source_description": "Marinated pieces of homemade cottage cheese, golden fried and served with chutney.",
+      "category": "Appetizer",
+      "group": "appetizers",
+      "page": 3,
+      "printed_price": "$12.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "12.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P03-07",
+      "name": "Fish Pakora/Chicken Pakora",
+      "description": "Fish chunks coated in a spicy batter and deep fried, served with mint and garlic chutney.",
+      "source_description": "Fish chunks coated in a spicy batter and deep fried, served with mint and garlic chutney. [Q01: chicken description absent]",
+      "category": "Appetizer",
+      "group": "appetizers",
+      "page": 3,
+      "printed_price": "$14.50",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.50"
+        }
+      ],
+      "review_notes": [
+        "Q01: chicken description absent"
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P03-08",
+      "name": "Mix Pakora",
+      "description": "Assorted vegetables (like onions, potatoes, spinach, and cauliflower) coated in a spiced chickpea flour batter and deep-fried until crispy.",
+      "source_description": "Assorted vegetables (like onions, potatoes, spinach, and cauliflower) coated in a spiced chickpea flour batter and deep-fried until crispy.",
+      "category": "Appetizer",
+      "group": "appetizers",
+      "page": 3,
+      "printed_price": "$12.50",
+      "prices": [
+        {
+          "label": "",
+          "amount": "12.50"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-01",
+      "name": "Samosa (2 pcs)",
+      "description": "Crispy pastry stuffed with spiced potatoes.",
+      "source_description": "Crispy pastry stuffed with spiced potatoes.",
+      "category": "Street Food",
+      "group": "street-food",
+      "page": 4,
+      "printed_price": "$2.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "2.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-02",
+      "name": "Samosa with Channa",
+      "description": "Savory samosas served with flavorful chickpeas.",
+      "source_description": "Savory samosas served with flavorful chickpeas.",
+      "category": "Street Food",
+      "group": "street-food",
+      "page": 4,
+      "printed_price": "$9.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "9.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-03",
+      "name": "Tikki with Channa",
+      "description": "Crispy dal-filled potato patties.",
+      "source_description": "Crispy dal-filled potato patties.",
+      "category": "Street Food",
+      "group": "street-food",
+      "page": 4,
+      "printed_price": "$9.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "9.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-04",
+      "name": "Gol Gappe (8 pcs)",
+      "description": "Crunchy puffs filled with tangy water and spicy filling.",
+      "source_description": "Crunchy puffs filled with tangy water and spicy filling.",
+      "category": "Street Food",
+      "group": "street-food",
+      "page": 4,
+      "printed_price": "$9.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "9.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-05",
+      "name": "Dahi Puri (8 pcs)",
+      "description": "Crispy puris topped with yogurt and flavorful chutneys.",
+      "source_description": "Crispy puris topped with yogurt and flavorful chutneys.",
+      "category": "Street Food",
+      "group": "street-food",
+      "page": 4,
+      "printed_price": "$8.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "8.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-06",
+      "name": "Dahi Bhalla",
+      "description": "Soft lentil dumplings soaked in creamy yogurt and spices.",
+      "source_description": "Soft lentil dumplings soaked in creamy yogurt and spices.",
+      "category": "Street Food",
+      "group": "street-food",
+      "page": 4,
+      "printed_price": "$10.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "10.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-07",
+      "name": "Chaat Papdi",
+      "description": "A mix of crispy papdi, chutneys, and refreshing toppings.",
+      "source_description": "A mix of crispy papdi, chutneys, and refreshing toppings.",
+      "category": "Street Food",
+      "group": "street-food",
+      "page": 4,
+      "printed_price": "$10.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "10.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-08",
+      "name": "Vegetarian Thali",
+      "description": "Assorted meal platter with veg curries, rice, raita, salad, and naan or roti.",
+      "source_description": "Assorted meal platter with veg curries, rice, raita, salad, and naan or roti.",
+      "category": "Quick Meals",
+      "group": "quick-meals",
+      "page": 4,
+      "printed_price": "$13.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "13.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-09",
+      "name": "Meat Thali",
+      "description": "Assorted meal platter with non-veg curries, rice, raita, salad, and naan or roti.",
+      "source_description": "Assorted meal platter with non-veg curries, rice, raita, salad, and naan or roti.",
+      "category": "Quick Meals",
+      "group": "quick-meals",
+      "page": 4,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-10",
+      "name": "Amritsari Kulcha",
+      "description": "Stuffed bread with potato or Mix filling and spices, served with channa masala and raita.",
+      "source_description": "Stuffed bread with potato or Mix filling and spices, served with channa masala and raita.",
+      "category": "Quick Meals",
+      "group": "quick-meals",
+      "page": 4,
+      "printed_price": "$13.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "13.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-11",
+      "name": "Channa Bhatura",
+      "description": "Authentic spicy chickpeas served with 2 fried breads, onions and raita.",
+      "source_description": "Authentic spicy chickpeas served with 2 fried breads, onions and raita.",
+      "category": "Quick Meals",
+      "group": "quick-meals",
+      "page": 4,
+      "printed_price": "$13.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "13.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-12",
+      "name": "Roll with Pop",
+      "description": "Chicken/Lamb/Fish/Veggie/Soya.",
+      "source_description": "Chicken/Lamb/Fish/Veggie/Soya.",
+      "category": "Quick Meals",
+      "group": "quick-meals",
+      "page": 4,
+      "printed_price": "$12.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "12.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P04-13",
+      "name": "Biryani - Veggie",
+      "description": "Mixed vegetables flavored with mint and fresh herbs, layered with rice.",
+      "source_description": "Mixed vegetables flavored with mint and fresh herbs, layered with rice.",
+      "category": "Quick Meals",
+      "group": "quick-meals",
+      "page": 4,
+      "printed_price": "$13.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "13.99"
+        }
+      ],
+      "review_notes": [
+        "Also listed under Biryani; portion equivalence to be confirmed."
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P04-14",
+      "name": "Biryani - Chicken",
+      "description": "Stewed chicken or mixed vegetables flavored with mint and fresh herbs, layered with rice.",
+      "source_description": "Stewed chicken or mixed vegetables flavored with mint and fresh herbs, layered with rice. [Q02: description]",
+      "category": "Quick Meals",
+      "group": "quick-meals",
+      "page": 4,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [
+        "Q02: description",
+        "Also listed under Biryani; portion equivalence to be confirmed."
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P04-15",
+      "name": "Shrimp Biryani",
+      "description": "Shrimp layered with rice and flavored with mint and fresh herbs.",
+      "source_description": "Shrimp layered with rice and flavored with mint and fresh herbs.",
+      "category": "Quick Meals",
+      "group": "quick-meals",
+      "page": 4,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [
+        "Also listed under Biryani; portion equivalence to be confirmed."
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P04-16",
+      "name": "Lamb Biryani",
+      "description": "Lamb layered with rice and flavored with mint and fresh herbs.",
+      "source_description": "Lamb layered with rice and flavored with mint and fresh herbs.",
+      "category": "Quick Meals",
+      "group": "quick-meals",
+      "page": 4,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [
+        "Also listed under Biryani; portion equivalence to be confirmed."
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P05-01",
+      "name": "Paneer Tikka",
+      "description": "Cottage cheese marinated in yogurt and various Indian spices, roasted in a clay tandoor.",
+      "source_description": "Cottage cheese marinated in yogurt and various Indian spices, roasted in a clay tandoor.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P05-02",
+      "name": "Malai Paneer Tikka",
+      "description": "Rich, creamy, and mildly spiced North Indian appetizer.",
+      "source_description": "Rich, creamy, and mildly spiced North Indian appetizer.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P05-03",
+      "name": "Haryali Paneer Tikka",
+      "description": "Diced paneer marinated with mint, cilantro and Indian spices, roasted in the tandoor.",
+      "source_description": "Diced paneer marinated with mint, cilantro and Indian spices, roasted in the tandoor.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P05-04",
+      "name": "Angara Paneer Tikka",
+      "description": "Paneer sticks coated in a bold, red chili and yogurt-based spice marinade.",
+      "source_description": "Paneer sticks coated in a bold, red chili and yogurt-based spice marinade.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P05-05",
+      "name": "Tandoori Mushroom",
+      "description": "Button mushrooms marinated in a flavorful yogurt blend and cooked in the tandoor.",
+      "source_description": "Button mushrooms marinated in a flavorful yogurt blend and cooked in the tandoor.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$13.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "13.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P05-06",
+      "name": "Angra Soya Chaap",
+      "description": "Soya chaap sticks coated in a bold, red chili and yogurt-based spice marinade.",
+      "source_description": "Soya chaap sticks coated in a bold, red chili and yogurt-based spice marinade.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P05-07",
+      "name": "Tandoori Soya Chaap",
+      "description": "Soya marinated in flavored yogurt and cooked in the tandoor.",
+      "source_description": "Soya marinated in flavored yogurt and cooked in the tandoor.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P05-08",
+      "name": "Tandoori Malai Chaap (Dry/Gravy)",
+      "description": "Soya in a creamy sauce cooked in the tandoor.",
+      "source_description": "Soya in a creamy sauce cooked in the tandoor.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P05-09",
+      "name": "Afghani Soya Chaap",
+      "description": "Soya marinated with cream, ginger and spices, broiled over charcoal in the tandoor.",
+      "source_description": "Soya marinated with cream, ginger and spices, broiled over charcoal in the tandoor.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P05-10",
+      "name": "Mint Soya Chaap",
+      "description": "Marinated with mint and Indian spices, cooked in the tandoor.",
+      "source_description": "Marinated with mint and Indian spices, cooked in the tandoor.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P05-11",
+      "name": "Tandoori Momos (Veg)",
+      "description": "Juicy vegetable dumplings marinated in spices and roasted to perfection.",
+      "source_description": "Juicy vegetable dumplings marinated in spices and roasted to perfection.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$16.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "16.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P05-12",
+      "name": "Veg Platter",
+      "description": "Chef special.",
+      "source_description": "Chef special.",
+      "category": "Tandoori Veg Corner",
+      "group": "tandoori-veg",
+      "page": 5,
+      "printed_price": "$29.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "29.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-01",
+      "name": "Chicken Tikka",
+      "description": "Chicken marinated in authentic spices and yogurt, then roasted in our tandoor.",
+      "source_description": "Chicken marinated in authentic spices and yogurt, then roasted in our tandoor.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$19.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "19.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-02",
+      "name": "Mint Chicken Tikka",
+      "description": "Diced chicken marinated in a regional mint blend and Indian spices, then roasted in the tandoor.",
+      "source_description": "Diced chicken marinated in a regional mint blend and Indian spices, then roasted in the tandoor.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$19.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "19.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-03",
+      "name": "Malai Tikka",
+      "description": "Creamy chicken marinated in a flavorful sauce and broiled over charcoal in the tandoor.",
+      "source_description": "Creamy chicken marinated in a flavorful sauce and broiled over charcoal in the tandoor.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$19.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "19.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-04",
+      "name": "Angara Chicken Tikka",
+      "description": "Boneless chicken thigh marinated in thick yogurt, hot chili, and aromatic spices.",
+      "source_description": "Boneless chicken thigh marinated in thick yogurt, hot chili, and aromatic spices.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$19.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "19.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-05",
+      "name": "Achari Chicken Tikka",
+      "description": "Boneless chicken thigh marinated in a punchy blend of yogurt, lemon juice, Indian pickling spices",
+      "source_description": "Boneless chicken thigh marinated in a punchy blend of yogurt, lemon juice, Indian pickling spices",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$19.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "19.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-06",
+      "name": "Tandoori Chicken",
+      "description": "Whole chicken marinated in yogurt and spices, cooked in the tandoor.",
+      "source_description": "Whole chicken marinated in yogurt and spices, cooked in the tandoor.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$24.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "24.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-07",
+      "name": "Chicken Wings",
+      "description": "Chicken wings marinated in authentic spices and yogurt, then cooked in the tandoor.",
+      "source_description": "Chicken wings marinated in authentic spices and yogurt, then cooked in the tandoor.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-08",
+      "name": "Chicken Leg (per piece)",
+      "description": "Tender chicken leg marinated in a flavorful blend of spices and grilled.",
+      "source_description": "Tender chicken leg marinated in a flavorful blend of spices and grilled.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$5.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-09",
+      "name": "Afghani Leg",
+      "description": "A tender, mildly spiced and creamy marinated meat dish, traditionally cooked in a tandoor.",
+      "source_description": "A tender, mildly spiced and creamy marinated meat dish, traditionally cooked in a tandoor.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$6.49",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.49"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-10",
+      "name": "Lamb Chops (5 pcs)",
+      "description": "Tender lamb chops marinated with Indian spices, cooked in the tandoor.",
+      "source_description": "Tender lamb chops marinated with Indian spices, cooked in the tandoor.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$22.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "22.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-11",
+      "name": "Lamb Seekh Kebab",
+      "description": "Minced lamb mixed with chopped onions and selected spices, shaped into skewers and grilled.",
+      "source_description": "Minced lamb mixed with chopped onions and selected spices, shaped into skewers and grilled.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$19.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "19.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-12",
+      "name": "Chicken Seekh Kebab",
+      "description": "Minced chicken mixed with chopped onions and selected spices, shaped into skewers and grilled.",
+      "source_description": "Minced chicken mixed with chopped onions and selected spices, shaped into skewers and grilled.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$19.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "19.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-13",
+      "name": "Reshmi Kebab",
+      "description": "Chicken breast marinated in garlic and mild spices, grilled in our tandoor.",
+      "source_description": "Chicken breast marinated in garlic and mild spices, grilled in our tandoor.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$19.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "19.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-14",
+      "name": "Tandoori Shrimp",
+      "description": "Juicy shrimp marinated in flavorful spices and grilled in the tandoor.",
+      "source_description": "Juicy shrimp marinated in flavorful spices and grilled in the tandoor.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$21.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "21.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-15",
+      "name": "Tandoori Salmon Fish",
+      "description": "Fresh salmon marinated in Indian spices, grilled in the tandoor.",
+      "source_description": "Fresh salmon marinated in Indian spices, grilled in the tandoor.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$21.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "21.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-16",
+      "name": "Tandoori White Fish",
+      "description": "White fillets marinated in aromatic spices and grilled in the tandoor.",
+      "source_description": "White fillets marinated in aromatic spices and grilled in the tandoor.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$21.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "21.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-17",
+      "name": "Tandoori Momos (Chicken)",
+      "description": "Tender chicken-filled dumplings grilled with aromatic tandoori spices.",
+      "source_description": "Tender chicken-filled dumplings grilled with aromatic tandoori spices.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$16.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "16.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P06-18",
+      "name": "Non Veg Platter",
+      "description": "Chef special.",
+      "source_description": "Chef special.",
+      "category": "Tandoori Non Veg Corner",
+      "group": "tandoori-non-veg",
+      "page": 6,
+      "printed_price": "$34.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "34.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-01",
+      "name": "Shahi Paneer",
+      "description": "Cottage cheese cooked in a delicious gravy of tomatoes, butter and fresh cream.",
+      "source_description": "Cottage cheese cooked in a delicious gravy of tomatoes, butter and fresh cream.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-02",
+      "name": "Chili Paneer",
+      "description": "Cottage cheese cooked in a hot chili sauce.",
+      "source_description": "Cottage cheese cooked in a hot chili sauce.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-03",
+      "name": "Kadai Paneer",
+      "description": "Cottage cheese with green peppers, onions and tomatoes, tossed in our kadai sauce.",
+      "source_description": "Cottage cheese with green peppers, onions and tomatoes, tossed in our kadai sauce.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-04",
+      "name": "Paneer Tikka Masala",
+      "description": "Roasted cottage cheese cubes cooked with tomatoes, green peppers and onions.",
+      "source_description": "Roasted cottage cheese cubes cooked with tomatoes, green peppers and onions.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-05",
+      "name": "Paneer Butter Masala",
+      "description": "Cottage cheese in a rich, creamy sauce with butter and spices.",
+      "source_description": "Cottage cheese in a rich, creamy sauce with butter and spices.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-06",
+      "name": "Paneer Lababdar",
+      "description": "Cottage cheese with onions, green peppers, tomatoes and a variety of spices.",
+      "source_description": "Cottage cheese with onions, green peppers, tomatoes and a variety of spices.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-07",
+      "name": "Palak Paneer",
+      "description": "Curried spinach with cottage cheese and a North Indian blend of spices.",
+      "source_description": "Curried spinach with cottage cheese and a North Indian blend of spices.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-08",
+      "name": "Mutter Paneer",
+      "description": "Cottage cheese cooked in an aromatic cream-based sauce with green peas; available non-creamy.",
+      "source_description": "Cottage cheese cooked in an aromatic cream-based sauce with green peas; available non-creamy.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-09",
+      "name": "Methi Matar Paneer Masala",
+      "description": "Cottage cheese blended with cumin, tomatoes, onions and fenugreek leaves in a thick sauce.",
+      "source_description": "Cottage cheese blended with cumin, tomatoes, onions and fenugreek leaves in a thick sauce.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-10",
+      "name": "Paneer Bhurji",
+      "description": "Scrambled cottage cheese with onions, tomatoes, green chilies and spices.",
+      "source_description": "Scrambled cottage cheese with onions, tomatoes, green chilies and spices.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-11",
+      "name": "Veggie Korma",
+      "description": "Mixed vegetables cooked in a creamy sauce.",
+      "source_description": "Mixed vegetables cooked in a creamy sauce.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-12",
+      "name": "Malai Kofta",
+      "description": "Fried cottage cheese balls coated in a rich tomato or herb-based gravy.",
+      "source_description": "Fried cottage cheese balls coated in a rich tomato or herb-based gravy.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-13",
+      "name": "Channa Masala",
+      "description": "Chickpeas curried with potatoes and fresh spices.",
+      "source_description": "Chickpeas curried with potatoes and fresh spices.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-14",
+      "name": "Dal Makhni",
+      "description": "Black lentils and red kidney beans slow-cooked with Indian spices.",
+      "source_description": "Black lentils and red kidney beans slow-cooked with Indian spices.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-15",
+      "name": "Yellow Dal/Dal Tadka",
+      "description": "Yellow lentils prepared with tomatoes, garlic and spices.",
+      "source_description": "Yellow lentils prepared with tomatoes, garlic and spices.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-16",
+      "name": "Mix Vegetable",
+      "description": "A delicious medley of vegetables cooked with spices.",
+      "source_description": "A delicious medley of vegetables cooked with spices.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-17",
+      "name": "Saag",
+      "description": "Curried mustard greens and spinach.",
+      "source_description": "Curried mustard greens and spinach.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-18",
+      "name": "Baingan Bharta",
+      "description": "Eggplant cooked with a subtle blend of onions, tomatoes and spices.",
+      "source_description": "Eggplant cooked with a subtle blend of onions, tomatoes and spices.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P07-19",
+      "name": "Aloo Gobi",
+      "description": "Cauliflower and potatoes delicately cooked with fresh spices.",
+      "source_description": "Cauliflower and potatoes delicately cooked with fresh spices.",
+      "category": "Vegetarian Curry Corner",
+      "group": "vegetarian-curries",
+      "page": 7,
+      "printed_price": "Regular $14.99; Large $17.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "14.99"
+        },
+        {
+          "label": "Large",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-01",
+      "name": "Butter Chicken",
+      "description": "Boneless chunks of chicken breast cooked in a creamy tomato sauce.",
+      "source_description": "Boneless chunks of chicken breast cooked in a creamy tomato sauce.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-02",
+      "name": "Chicken Curry",
+      "description": "Chicken breast with onion and tomato curry, cooked with Indian spices.",
+      "source_description": "Chicken breast with onion and tomato curry, cooked with Indian spices.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-03",
+      "name": "Chilli Chicken",
+      "description": "Boneless chicken tossed in spicy chili sauce with green peppers and onions.",
+      "source_description": "Boneless chicken tossed in spicy chili sauce with green peppers and onions.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-04",
+      "name": "Chicken Tikka Masala",
+      "description": "Grilled chicken pieces in a rich tomato sauce with spices.",
+      "source_description": "Grilled chicken pieces in a rich tomato sauce with spices.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-05",
+      "name": "Chicken Latpat",
+      "description": "Chicken thighs and drumsticks simmered in a spicy sauce with chilies, garlic, ginger and other spices.",
+      "source_description": "Chicken thighs and drumsticks simmered in a spicy sauce with chilies, garlic, ginger and other spices.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-06",
+      "name": "Chicken Hydrabadi",
+      "description": "Marinated tender chicken and yogurt cooked with aromatic Indian spices.",
+      "source_description": "Marinated tender chicken and yogurt cooked with aromatic Indian spices.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-07",
+      "name": "Kadai Chicken",
+      "description": "Spicy tomato gravy cooked with fresh herbs. Available in chicken, lamb or goat.",
+      "source_description": "Spicy tomato gravy cooked with fresh herbs. Available in chicken, lamb or goat. [Q03]",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [
+        "Q03"
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P08-08",
+      "name": "Chicken Keema Mutter",
+      "description": "Minced chicken and green peas cooked in a spiced tomato-based curry.",
+      "source_description": "Minced chicken and green peas cooked in a spiced tomato-based curry.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-09",
+      "name": "Madras Chicken",
+      "description": "Tender pieces of chicken cooked with coconut milk, fresh herbs, spices and curry leaves.",
+      "source_description": "Tender pieces of chicken cooked with coconut milk, fresh herbs, spices and curry leaves.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-10",
+      "name": "Murgha Punjabi",
+      "description": "Punjabi chicken masala with rich spices for an elevated flavor.",
+      "source_description": "Punjabi chicken masala with rich spices for an elevated flavor.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-11",
+      "name": "Goat Curry",
+      "description": "Goat with onion and tomato gravy with aromatic Indian spices.",
+      "source_description": "Goat with onion and tomato gravy with aromatic Indian spices.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-12",
+      "name": "Bhuna Gosht",
+      "description": "Lamb or goat pieces slow-cooked in whole spices, fried with ghee and garnished with coriander.",
+      "source_description": "Lamb or goat pieces slow-cooked in whole spices, fried with ghee and garnished with coriander.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-13",
+      "name": "Lamb Keema Mutter",
+      "description": "Minced lamb cooked with green peas in a spiced tomato gravy.",
+      "source_description": "Minced lamb cooked with green peas in a spiced tomato gravy.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-14",
+      "name": "Vindaloo (Chicken/Goat)",
+      "description": "Spicy curry with chicken or lamb, cooked with vinegar and spices.",
+      "source_description": "Spicy curry with chicken or lamb, cooked with vinegar and spices. [Q04]",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [
+        "Q04"
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P08-15",
+      "name": "Korma (Chicken/Goat)",
+      "description": "Creamy chicken, goat or lamb in a tomato yogurt gravy.",
+      "source_description": "Creamy chicken, goat or lamb in a tomato yogurt gravy. [Q05]",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [
+        "Q05"
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P08-16",
+      "name": "Shrimp Masala",
+      "description": "Large pieces cooked in onion, tomato and spices.",
+      "source_description": "Large pieces cooked in onion, tomato and spices.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-17",
+      "name": "Egg Bhurji",
+      "description": "Scrambled eggs with onions, tomatoes, green chilies and spices.",
+      "source_description": "Scrambled eggs with onions, tomatoes, green chilies and spices.",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P08-18",
+      "name": "Saag (Chicken/Goat)",
+      "description": "Curried mustard greens and spinach with choice of chicken or lamb.",
+      "source_description": "Curried mustard greens and spinach with choice of chicken or lamb. [Q06]",
+      "category": "Non-Veg Curry Corner",
+      "group": "non-vegetarian-curries",
+      "page": 8,
+      "printed_price": "Regular $15.99; Large $18.99",
+      "prices": [
+        {
+          "label": "Regular",
+          "amount": "15.99"
+        },
+        {
+          "label": "Large",
+          "amount": "18.99"
+        }
+      ],
+      "review_notes": [
+        "Q06"
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P09-01",
+      "name": "Crispy Veg",
+      "description": "Crunchy fried vegetables with Hakka-style flavors.",
+      "source_description": "Crunchy fried vegetables with Hakka-style flavors.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-02",
+      "name": "Chilli Mushroom",
+      "description": "Spicy mushrooms cooked with tangy chili sauce.",
+      "source_description": "Spicy mushrooms cooked with tangy chili sauce.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-03",
+      "name": "Chilli Soyachamp",
+      "description": "Soy-based protein in a flavorful chili sauce.",
+      "source_description": "Soy-based protein in a flavorful chili sauce.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-04",
+      "name": "Chilli Gobi",
+      "description": "Fried cauliflower tossed in a spicy chili sauce.",
+      "source_description": "Fried cauliflower tossed in a spicy chili sauce.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-05",
+      "name": "Veg Manchurian",
+      "description": "Crispy, deep-fried vegetable balls tossed in a thick, flavorful sauce.",
+      "source_description": "Crispy, deep-fried vegetable balls tossed in a thick, flavorful sauce. [Q07: dry description]",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "Gravy $15.99; Dry $17.99",
+      "prices": [
+        {
+          "label": "Gravy",
+          "amount": "15.99"
+        },
+        {
+          "label": "Dry",
+          "amount": "17.99"
+        }
+      ],
+      "review_notes": [
+        "Q07: dry description"
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P09-06",
+      "name": "Chicken Lollipop",
+      "description": "Spicy, deep-fried chicken wings.",
+      "source_description": "Spicy, deep-fried chicken wings.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-07",
+      "name": "Fried Momos",
+      "description": "Dumplings (chicken or veg) fried to perfection.",
+      "source_description": "Dumplings (chicken or veg) fried to perfection.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$16.00",
+      "prices": [
+        {
+          "label": "",
+          "amount": "16.00"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-08",
+      "name": "Chilli Momos",
+      "description": "Dumplings (chicken or veg) tossed in spicy chili sauce.",
+      "source_description": "Dumplings (chicken or veg) tossed in spicy chili sauce.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$16.00",
+      "prices": [
+        {
+          "label": "",
+          "amount": "16.00"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-09",
+      "name": "Veg Noodles",
+      "description": "Fried noodles with Hakka/Indian style and Indian flavors.",
+      "source_description": "Fried noodles with Hakka/Indian style and Indian flavors.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$13.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "13.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-10",
+      "name": "Chicken Noodles",
+      "description": "Fried noodles with Hakka/Indian style and Indian flavors.",
+      "source_description": "Fried noodles with Hakka/Indian style and Indian flavors.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-11",
+      "name": "Chicken 65",
+      "description": "Spicy deep-fried chicken dish.",
+      "source_description": "Spicy deep-fried chicken dish.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-12",
+      "name": "Lemon Chicken",
+      "description": "Zesty chicken with a hint of lemon.",
+      "source_description": "Zesty chicken with a hint of lemon.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-13",
+      "name": "Garlic Chicken",
+      "description": "Flavorful chicken infused with garlic sauce.",
+      "source_description": "Flavorful chicken infused with garlic sauce.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-14",
+      "name": "Chilli Fish",
+      "description": "Spicy and tangy fish with chili sauce and aromatic spices.",
+      "source_description": "Spicy and tangy fish with chili sauce and aromatic spices.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$16.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "16.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-15",
+      "name": "Veg Fried Rice",
+      "description": "Flavorful fried rice with fresh vegetables.",
+      "source_description": "Flavorful fried rice with fresh vegetables.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$12.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "12.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-16",
+      "name": "Chicken Fried Rice",
+      "description": "Fried rice with tender chicken and spices.",
+      "source_description": "Fried rice with tender chicken and spices.",
+      "category": "Hakka Chinese",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$13.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "13.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P09-17",
+      "name": "Veg Hot & Sour",
+      "description": "Spicy and tangy soup with mixed vegetables.",
+      "source_description": "Spicy and tangy soup with mixed vegetables.",
+      "category": "Soup",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$11.50 at category heading",
+      "prices": [],
+      "review_notes": [
+        "Q08: The proof prints $11.50 beside Soup; applicability to each soup needs confirmation."
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P09-18",
+      "name": "Chicken Hot & Sour",
+      "description": "Zesty soup with chicken and bold flavors.",
+      "source_description": "Zesty soup with chicken and bold flavors.",
+      "category": "Soup",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$11.50 at category heading",
+      "prices": [],
+      "review_notes": [
+        "Q08: The proof prints $11.50 beside Soup; applicability to each soup needs confirmation."
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P09-19",
+      "name": "Cream of Chicken",
+      "description": "Smooth and rich chicken soup.",
+      "source_description": "Smooth and rich chicken soup.",
+      "category": "Soup",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$11.50 at category heading",
+      "prices": [],
+      "review_notes": [
+        "Q08: The proof prints $11.50 beside Soup; applicability to each soup needs confirmation."
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P09-20",
+      "name": "Cream of Veg",
+      "description": "Creamy soup made with fresh vegetables.",
+      "source_description": "Creamy soup made with fresh vegetables.",
+      "category": "Soup",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$11.50 at category heading",
+      "prices": [],
+      "review_notes": [
+        "Q08: The proof prints $11.50 beside Soup; applicability to each soup needs confirmation."
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P09-21",
+      "name": "Manchow Soup (Veg)",
+      "description": "A spicy, tangy soup loaded with crunchy vegetables, topped with crispy fried noodles.",
+      "source_description": "A spicy, tangy soup loaded with crunchy vegetables, topped with crispy fried noodles.",
+      "category": "Soup",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$11.50 at category heading",
+      "prices": [],
+      "review_notes": [
+        "Q08: The proof prints $11.50 beside Soup; applicability to each soup needs confirmation."
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P09-22",
+      "name": "Manchow Soup (Chicken)",
+      "description": "A bold, flavorful soup with tender chicken, aromatic spices and crispy fried noodles.",
+      "source_description": "A bold, flavorful soup with tender chicken, aromatic spices and crispy fried noodles.",
+      "category": "Soup",
+      "group": "hakka-soup",
+      "page": 9,
+      "printed_price": "$11.50 at category heading",
+      "prices": [],
+      "review_notes": [
+        "Q08: The proof prints $11.50 beside Soup; applicability to each soup needs confirmation."
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P10-01",
+      "name": "Butter Naan/Roti",
+      "description": "Soft Indian bread topped with butter.",
+      "source_description": "Soft Indian bread topped with butter.",
+      "category": "Breads",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$2.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "2.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-02",
+      "name": "Chicken Naan",
+      "description": "Naan stuffed with flavorful chicken filling.",
+      "source_description": "Naan stuffed with flavorful chicken filling.",
+      "category": "Breads",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$5.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-03",
+      "name": "Cheese Naan",
+      "description": "Naan stuffed with melted cheese.",
+      "source_description": "Naan stuffed with melted cheese.",
+      "category": "Breads",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$4.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "4.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-04",
+      "name": "Garlic Naan",
+      "description": "Naan infused with garlic and herbs.",
+      "source_description": "Naan infused with garlic and herbs.",
+      "category": "Breads",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$3.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "3.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-05",
+      "name": "Garlic Cheese Naan",
+      "description": "Soft naan stuffed with melted cheese and garlic.",
+      "source_description": "Soft naan stuffed with melted cheese and garlic.",
+      "category": "Breads",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$5.49",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.49"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-06",
+      "name": "Chilli Naan/Roti",
+      "description": "Spicy naan or roti with chili flavor.",
+      "source_description": "Spicy naan or roti with chili flavor.",
+      "category": "Breads",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$3.49",
+      "prices": [
+        {
+          "label": "",
+          "amount": "3.49"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-07",
+      "name": "Chili Garlic Naan",
+      "description": "Flavored naan with garlic and a hint of spicy chili.",
+      "source_description": "Flavored naan with garlic and a hint of spicy chili.",
+      "category": "Breads",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$4.49",
+      "prices": [
+        {
+          "label": "",
+          "amount": "4.49"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-08",
+      "name": "Amritsari Kulcha Only",
+      "description": "Stuffed kulcha in Punjabi flavors.",
+      "source_description": "Stuffed kulcha in Punjabi flavors.",
+      "category": "Breads",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$5.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-09",
+      "name": "Parantha/Kulcha",
+      "description": "Options include aloo, mooli, onion, gobi or paneer fillings.",
+      "source_description": "Options include aloo, mooli, onion, gobi or paneer fillings.",
+      "category": "Breads",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$5.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-10",
+      "name": "Lachha Parantha",
+      "description": "Layered, flaky Indian bread.",
+      "source_description": "Layered, flaky Indian bread.",
+      "category": "Breads",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$4.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "4.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-11",
+      "name": "Green Salad",
+      "description": "",
+      "source_description": "—",
+      "category": "Sides",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$6.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-12",
+      "name": "Boondi Raita",
+      "description": "",
+      "source_description": "—",
+      "category": "Sides",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$5.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-13",
+      "name": "Veg Raita",
+      "description": "",
+      "source_description": "—",
+      "category": "Sides",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$6.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-14",
+      "name": "French Fries",
+      "description": "",
+      "source_description": "—",
+      "category": "Sides",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$6.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-15",
+      "name": "Plain Yogurt",
+      "description": "",
+      "source_description": "—",
+      "category": "Sides",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$5.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P10-16",
+      "name": "Onion Salad",
+      "description": "",
+      "source_description": "—",
+      "category": "Sides",
+      "group": "breads-sides",
+      "page": 10,
+      "printed_price": "$4.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "4.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P11-01",
+      "name": "Soya Chaamp Biryani",
+      "description": "Flavorful biryani with tender marinated chaap pieces.",
+      "source_description": "Flavorful biryani with tender marinated chaap pieces.",
+      "category": "Biryani",
+      "group": "biryani-rice",
+      "page": 11,
+      "printed_price": "$13.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "13.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P11-02",
+      "name": "Veg Biryani",
+      "description": "Aromatic rice cooked with mixed vegetables and spices.",
+      "source_description": "Aromatic rice cooked with mixed vegetables and spices.",
+      "category": "Biryani",
+      "group": "biryani-rice",
+      "page": 11,
+      "printed_price": "$13.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "13.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P11-03",
+      "name": "Chicken Biryani",
+      "description": "Classic biryani with juicy chicken and fragrant spices.",
+      "source_description": "Classic biryani with juicy chicken and fragrant spices.",
+      "category": "Biryani",
+      "group": "biryani-rice",
+      "page": 11,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P11-04",
+      "name": "Chicken Tikka Biryani",
+      "description": "Biryani infused with smoky chicken tikka flavors.",
+      "source_description": "Biryani infused with smoky chicken tikka flavors.",
+      "category": "Biryani",
+      "group": "biryani-rice",
+      "page": 11,
+      "printed_price": "$14.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "14.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P11-05",
+      "name": "Lamb Biryani",
+      "description": "Hearty biryani with tender lamb meat and bold spices.",
+      "source_description": "Hearty biryani with tender lamb meat and bold spices.",
+      "category": "Biryani",
+      "group": "biryani-rice",
+      "page": 11,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P11-06",
+      "name": "Shrimp Biryani",
+      "description": "Fragrant rice cooked with succulent shrimp and aromatic spices.",
+      "source_description": "Fragrant rice cooked with succulent shrimp and aromatic spices.",
+      "category": "Biryani",
+      "group": "biryani-rice",
+      "page": 11,
+      "printed_price": "$15.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "15.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P11-07",
+      "name": "Plain Rice",
+      "description": "Fluffy steamed basmati rice, a classic side.",
+      "source_description": "Fluffy steamed basmati rice, a classic side.",
+      "category": "Rice",
+      "group": "biryani-rice",
+      "page": 11,
+      "printed_price": "$4.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "4.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P11-08",
+      "name": "Jeera Rice",
+      "description": "Fragrant basmati rice tempered with cumin.",
+      "source_description": "Fragrant basmati rice tempered with cumin.",
+      "category": "Rice",
+      "group": "biryani-rice",
+      "page": 11,
+      "printed_price": "$5.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P11-09",
+      "name": "Jeera Pulao",
+      "description": "Fragrant basmati rice cooked with cumin seeds for a flavorful touch.",
+      "source_description": "Fragrant basmati rice cooked with cumin seeds for a flavorful touch.",
+      "category": "Rice",
+      "group": "biryani-rice",
+      "page": 11,
+      "printed_price": "$6.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "6.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-01",
+      "name": "Soda",
+      "description": "Coke, Sprite, Ginger Ale and more.",
+      "source_description": "Coke, Sprite, Ginger Ale and more.",
+      "category": "Beverages",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$1.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "1.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-02",
+      "name": "Juice",
+      "description": "Orange, Mango, Apple.",
+      "source_description": "Orange, Mango, Apple.",
+      "category": "Beverages",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$3.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "3.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-03",
+      "name": "Masala Chai",
+      "description": "",
+      "source_description": "—",
+      "category": "Beverages",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$2.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "2.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-04",
+      "name": "Elaichi Chai",
+      "description": "",
+      "source_description": "—",
+      "category": "Beverages",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$2.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "2.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-05",
+      "name": "Coffee",
+      "description": "",
+      "source_description": "—",
+      "category": "Beverages",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$2.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "2.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-06",
+      "name": "Gulab Jamun (2 pcs)",
+      "description": "",
+      "source_description": "—",
+      "category": "Dessert",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$2.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "2.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-07",
+      "name": "Rasmalai",
+      "description": "",
+      "source_description": "—",
+      "category": "Dessert",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$4.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "4.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-08",
+      "name": "Dessert Combo",
+      "description": "",
+      "source_description": "— [Q09: contents unknown]",
+      "category": "Dessert",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$4.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "4.99"
+        }
+      ],
+      "review_notes": [
+        "Q09: contents unknown"
+      ],
+      "confirmed": false
+    },
+    {
+      "id": "P12-09",
+      "name": "Gajar Ka Halwa",
+      "description": "",
+      "source_description": "—",
+      "category": "Dessert",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$5.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "5.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-10",
+      "name": "Mango Kulfi",
+      "description": "",
+      "source_description": "—",
+      "category": "Dessert",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$3.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "3.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-11",
+      "name": "Pistachio Kulfi",
+      "description": "",
+      "source_description": "—",
+      "category": "Dessert",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$3.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "3.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-12",
+      "name": "Stick Kulfi",
+      "description": "Malai, Kaju, Mango, Strawberry.",
+      "source_description": "Malai, Kaju, Mango, Strawberry.",
+      "category": "Dessert",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$3.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "3.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    },
+    {
+      "id": "P12-13",
+      "name": "Matka Kulfi",
+      "description": "",
+      "source_description": "—",
+      "category": "Dessert",
+      "group": "beverages-desserts",
+      "page": 12,
+      "printed_price": "$4.99",
+      "prices": [
+        {
+          "label": "",
+          "amount": "4.99"
+        }
+      ],
+      "review_notes": [],
+      "confirmed": false
+    }
+  ]
+}

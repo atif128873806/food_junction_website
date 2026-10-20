@@ -1,0 +1,4 @@
+<section class="catering-invitation" aria-labelledby="catering-invitation-heading">
+    <div class="catering-image"><img src="{{ asset('images/tandoori-spread-960.webp') }}" srcset="{{ asset('images/tandoori-spread-640.webp') }} 640w, {{ asset('images/tandoori-spread-960.webp') }} 960w, {{ asset('images/tandoori-spread-1440.webp') }} 1440w" sizes="(max-width: 767px) 100vw, 55vw" width="1440" height="960" loading="lazy" decoding="async" alt="An overhead spread of tandoori dishes, curries, naan and noodles" data-scroll-image></div>
+    <div class="catering-copy"><h2 id="catering-invitation-heading">Make room<br>for a <em>gathering.</em></h2><p>Good company deserves a table full of flavour. Bring Tandoori Junction to your next gathering with catering.</p><p>Tell us what you’re planning. We’ll discuss the menu and available arrangements with you.</p><a class="button-primary" href="{{ route('catering') }}">Let’s talk catering <x-arrow /></a></div>
+</section>

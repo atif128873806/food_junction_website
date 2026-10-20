@@ -1,0 +1,4 @@
+<section class="chapter visit-chapter" aria-labelledby="visit-heading">
+    <div><h2 id="visit-heading">A little closer<br>to <em>flavour.</em></h2><p>Find Tandoori Junction in Markham.<br>Dine in, take out, or call to talk catering.</p><a class="text-link" href="{{ route('visit') }}">Plan your visit <x-arrow /></a></div>
+    <div class="visit-contact"><address>{{ config('restaurant.address') }}<br>{{ config('restaurant.city_postal') }}</address><a class="visit-phone" href="{{ config('restaurant.telephone_uri') }}">{{ config('restaurant.phone') }} <x-arrow /></a><p>For opening hours, please call us.</p><a class="button-primary" href="{{ config('restaurant.directions_url') }}" target="_blank" rel="noopener noreferrer">Get directions <span class="sr-only">in Google Maps (opens in a new tab)</span><x-arrow /></a></div>
+</section>

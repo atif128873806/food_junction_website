@@ -1,0 +1,24 @@
+{
+  "id": "FOOD-USER-001",
+  "source_pdf": "/home/atif/Downloads/King Tandoori - Markham Window Wraps/Left Side Window Wraps/KT - Markham Left Side - Window 001 - Updated.pdf",
+  "source_page": 1,
+  "source_object": "9 0",
+  "embedded_image_dimensions": [
+    6244,
+    4163
+  ],
+  "extraction": "pdfimages -j; original embedded JPEG retained unchanged",
+  "retained_original": "context/originals/food-spread-source.jpg",
+  "sha256": "6afac5949d363a4c450a46f444b4d7c924a63749f821c907579d233b4e9a5849",
+  "authorization": "SRC-REVISION-004: user identifies supplied images as real and directs their use, superseding earlier reference-only photography restriction",
+  "active_ui": false,
+  "status_note": "Retained provenance for the superseded dark A proposal. Current homepage and menu imagery comes from the Tandoori Junction dine-in menu PDF.",
+  "derivatives": [
+    "website/public/images/tandoori-spread-640.webp",
+    "website/public/images/tandoori-spread-960.webp",
+    "website/public/images/tandoori-spread-1920.webp",
+    "website/public/images/tandoori-spread-1440.webp"
+  ],
+  "processing": "Embedded profile to sRGB where available, resize and WebP encoding only; no generated/added elements",
+  "brand_rule": "Do not reuse competitor names, logos, dates, prices or promotional claims"
+}
