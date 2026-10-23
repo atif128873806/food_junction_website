@@ -8,8 +8,12 @@ Route::get('/menu', function (MenuRepository $menu) {
     $groups = $menu->groups();
     $selectedGroup = $groups->firstWhere('slug', request()->query('category')) ?? $groups->first();
     $items = $menu->items()->where('group', $selectedGroup['slug'])->values();
+    $groupCounts = $menu->items()->countBy('group');
+    $selectedIndex = $groups->search(fn ($group) => $group['slug'] === $selectedGroup['slug']);
+    $previousGroup = $selectedIndex > 0 ? $groups[$selectedIndex - 1] : null;
+    $nextGroup = $selectedIndex < $groups->count() - 1 ? $groups[$selectedIndex + 1] : null;
 
-    return view('menu', compact('groups', 'selectedGroup', 'items'));
+    return view('menu', compact('groups', 'selectedGroup', 'items', 'groupCounts', 'previousGroup', 'nextGroup'));
 })->name('menu');
 Route::view('/our-story', 'story')->name('story');
 Route::view('/catering', 'catering')->name('catering');

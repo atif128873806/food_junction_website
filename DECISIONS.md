@@ -43,3 +43,21 @@ User: “yes approved and finish it please.” Immersive client-study A is appro
 
 | D22 | approved | Replace the previous dated page compositions across all five routes with a more professional, animated restaurant design while retaining the confirmed white/red identity, original logo, system type, supplied PDF images, source menu data, and pages-only scope | Direct user request 2026-10-20; Impeccable skill requested |
 | D23 | implementation | Use a printed-menu-inspired layout, large typographic hierarchy, full-width food moments, a home hero sequence, and reduced-motion-aware entrance and interaction feedback. Keep all content visible without JavaScript. | Redesign implementation in `website/resources/views`, `resources/css/app.css`, and `resources/js/home-motion.js` |
+
+## Menu reading revision — 2026-10-21
+
+| D24 | approved | Refine the site with menu usability as the priority. Replace the hidden category disclosure with a visible desktop index and mobile category rail; add leaf jump links and adjacent category navigation while preserving native shareable routes and all source records. | Direct user request 2026-10-21; implemented locally |
+
+## Homepage refinement — 2026-10-22
+
+| D25 | approved | Replace the cropped three-card food grid with a panoramic menu preview: category links reveal their matching supplied image on desktop focus/hover and remain separate photographed links on mobile. Coordinate the hero entrance; keep later motion quieter and respect reduced motion. | Direct user request 2026-10-21, implementation completed 2026-10-22 |
+
+## Hostinger deployment — 2026-10-23
+
+| D26 | approved | Deploy the current five-page site to the supplied shared Hostinger VPS and update PHP for this site without changing existing site routes or PHP handlers. | Direct user request 2026-10-22; supersedes the earlier local-only delivery boundary for deployment |
+| D27 | implementation | Use a dedicated `tjunction` system user, `/srv/tandoori-junction` releases, PHP 8.5.12 FPM pool/socket, and a separate Nginx host for `tandoorijunctionmarkham.ca` plus `www` with Let's Encrypt TLS. Keep the existing system PHP CLI selection and other site configurations intact. | VPS inventory, user-supplied hostname, DNS verification and live checks on 2026-10-22 UTC |
+| D28 | implementation | Keep noindex headers/meta and disallow crawling while printed details and asset rights await owner verification. Do not publish the private menu proof. | Existing D04/R14 production prerequisite and live HTTPS checks |
+
+## Homepage simplification and release — 2026-10-23
+
+| D29 | approved | Remove decorative eyebrow labels and the opening dash/line from the homepage. Refine its hierarchy with a named menu action, calmer heading scale, clearer service links and category context below the preview titles while preserving the approved photos, menu destinations and reduced-motion behavior. Deploy to the existing isolated Hostinger site. | Direct user request 2026-10-23; release `20261023-home-polish-1` |

@@ -2,9 +2,9 @@
 
 All inner pages share the white canvas, near-black system-sans text, restrained Tandoori Junction red, the original logo, compact navigation and footer. Each page answers one practical question. Use a supplied category photo only where it helps.
 
-## Menu
+## Menu — current 2026-10-21 reading concept
 
-Remove the search form. Show a page title and short source-price note, then a compact native disclosure labelled with the selected category. Opening it reveals links to the 12 original groups. A category link updates the shareable `?category=` URL and renders only that group's content, with browser back/forward working naturally. On first visit, open the first source group. The selected category begins with its original, full-width PDF food banner at its natural wide aspect ratio, followed by every source leaf heading, dish name, description, printed amount/variant and unresolved source note for that group. This changes the page from a 169-item scroll into a short index plus one selected group. Use a clean two-column item list on desktop and a single-column list on mobile, with prices clearly aligned and body copy at readable size. No search, extra dietary labels, modal, cart or order flow. All groups remain available directly from the category selector.
+Present the 12 source groups as a visible table of contents. Desktop uses a sticky left index; narrow screens use a sticky horizontal rail with 48px category targets and the current section kept in view. Every selection remains a native, shareable `?category=` link that renders one complete group. The active state is exposed through `aria-current`. Within a group, offer jump links when multiple original leaf headings exist, and previous/next group links below the dishes. Keep the matching PDF banner uncropped and labelled as a category image, then use a single reading column for source dish names, descriptions, aligned printed prices/variants and review notes. Keep the print-price warning near the introduction. No search or ordering UI.
 
 ## Our Story
 

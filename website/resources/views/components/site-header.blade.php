@@ -8,8 +8,8 @@
                 <a href="{{ route($route) }}" @if(request()->routeIs($route)) aria-current="page" @endif>{{ $label }}</a>
             @endforeach
         </nav>
-        <a class="header-menu-action" href="{{ route('menu') }}">View menu <x-arrow /></a>
-        <a class="mobile-menu-link" href="{{ route('menu') }}">Our menu</a>
+        <a class="header-menu-action" href="{{ request()->routeIs('menu') ? route('visit') : route('menu') }}">{{ request()->routeIs('menu') ? 'Visit us' : 'View menu' }} <x-arrow /></a>
+        <a class="mobile-menu-link" href="{{ request()->routeIs('menu') ? route('visit') : route('menu') }}">{{ request()->routeIs('menu') ? 'Visit us' : 'Our menu' }}</a>
         <details class="mobile-navigation" x-ref="navigation" @keydown.escape="closeNavigation()" @click.outside="$refs.navigation.removeAttribute('open')">
             <summary aria-label="Navigation"><span class="hamburger" aria-hidden="true"><span></span><span></span></span><span class="sr-only">Navigation</span></summary>
             <nav aria-label="Mobile navigation">

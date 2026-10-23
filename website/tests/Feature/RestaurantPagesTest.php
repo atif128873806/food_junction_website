@@ -63,6 +63,20 @@ class RestaurantPagesTest extends TestCase
         $this->get('/menu?category=not-a-category')->assertOk()->assertSee('Mocktails, Shakes & Lassi');
     }
 
+    public function test_menu_index_and_adjacent_links_keep_category_browsing_clear(): void
+    {
+        $response = $this->get('/menu?category=hakka-soup')->assertOk();
+        $response->assertSee('aria-label="Menu categories"', false)
+            ->assertSee('href="#leaf-hakka-soup-0"', false)
+            ->assertSee('href="#leaf-hakka-soup-1"', false)
+            ->assertSee('category=non-vegetarian-curries', false)
+            ->assertSee('category=breads-sides', false);
+        $this->assertMatchesRegularExpression('/category=hakka-soup"\s+aria-current="page"/', $response->getContent());
+
+        $this->get('/menu?category=drinks')->assertOk()->assertSee('category=appetizers', false);
+        $this->get('/menu?category=beverages-desserts')->assertOk()->assertSee('category=biryani-rice', false);
+    }
+
     public function test_homepage_has_a_full_width_photo_hero_and_links_to_real_menu_categories(): void
     {
         $response = $this->get('/')->assertOk()
@@ -72,7 +86,11 @@ class RestaurantPagesTest extends TestCase
 
         $response->assertSee('category=tandoori-veg', false)
             ->assertSee('category=tandoori-non-veg', false)
-            ->assertSee('category=street-food', false);
+            ->assertSee('category=street-food', false)
+            ->assertSee('data-home-preview', false)
+            ->assertSee('data-preview-link="paneer"', false)
+            ->assertSee('data-preview-link="chicken"', false)
+            ->assertSee('data-preview-link="street"', false);
     }
 
     public function test_ambiguous_entries_remain_flagged_and_repeated_biryanis_retained(): void

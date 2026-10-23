@@ -1,3 +1,11 @@
+# Homepage — current 2026-10-23 refinement
+
+The homepage opens directly with its welcome headline; decorative eyebrow labels and the initial line are removed. The hero offers a named Explore the menu action, more measured display type, and a factual Markham cuisine line. Category context sits below each menu-preview title. Dine-in, takeout and catering remain direct text links, with their supporting descriptions visible on mobile. These refinements keep the full-width supplied Tandoori Junction photo, panoramic preview interaction, white/red identity and reduced-motion behavior.
+
+The completed five-page light/red design remains the base. The homepage now has a wide photographic menu window below the introduction. It previews Paneer Tikka, Tandoori Chicken and Street Food using only their corresponding supplied Tandoori Junction menu images. Desktop pointer hover or keyboard focus changes the panoramic image with a page-like wipe; clicking follows the native category link. Mobile shows three separate linked image rows. The first image remains visible and every link works without JavaScript. The hero has one coordinated GSAP image-and-copy entrance; later sections use quieter, content-specific motion. Reduced-motion preference removes spatial transitions. See DESIGN.md and memory/HANDOFF.md.
+
+## Historical guidance
+
 # Homepage — current light direction
 
 Status: implement per SRC-LIGHT-008. The user explicitly replaced the previous immersive dark eight-chapter composition. Keep the site direct, food-led and easy to scan.

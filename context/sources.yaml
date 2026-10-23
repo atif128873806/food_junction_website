@@ -155,3 +155,17 @@ sources:
     locator: Latest user message requesting expanded full-photo hero, food-focused GSAP animations, and shorter single-category menu browsing.
     supersedes: [SRC-LIGHT-008 homepage length and menu presentation details only]
     note: Retain light white/red site, system font, all 12 categories/169 entries and PDF imagery; animate only homepage food imagery, honor reduced motion, and avoid adding unconfirmed services.
+  - id: SRC-DEPLOY-012
+    type: user-deployment-request
+    received_at: '2026-10-23'
+    authority: current-explicit-user-instruction
+    processing_status: processed
+    locator: Current chat request to deploy Tandoori Junction on supplied shared Hostinger VPS and update PHP for this website without affecting other projects.
+    note: Isolated PHP 8.5.12 deployment live on the supplied Hostinger VPS at https://tandoorijunctionmarkham.ca/ with HTTPS. Existing site routes/PHP handlers stayed untouched. Owner verification of printed details and asset rights remains pending, so noindex stays in place.
+  - id: SRC-HOME-013
+    type: user-design-and-deployment-request
+    received_at: '2026-10-23'
+    authority: current-explicit-user-instruction
+    processing_status: processed
+    locator: Current chat request to remove homepage eyebrow content and leading hyphen, further professionalize the homepage, and deploy it.
+    note: Homepage labels/line removed, hierarchy and links refined, and isolated release deployed to the existing HTTPS site. No new business facts or features added.

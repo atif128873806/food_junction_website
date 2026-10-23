@@ -4,8 +4,7 @@ Active project: this root, `/home/atif/junction_food_resturant_website`. User se
 
 ## Current phase
 
-On 2026-10-18 the user replaced the dark editorial direction with a white-and-red restaurant design and menu-proof photography. Their latest refinement requests a full-width image hero, modest homepage GSAP food motion, and a shorter menu that displays one complete PDF category at a time. Option A is superseded. Home, Menu, Our Story, Catering and Visit Us remain in scope; admin/database/booking/ordering integrations remain out of scope. Laravel12/Blade/Tailwind/Alpine/selective GSAP; supplied TJ photos only. Source prices/contact still require production verification. See DESIGN.md and memory/HANDOFF.md.
-
+The five-page light white/red website is implemented in Laravel 12/Blade. It received a full visual redesign on 2026-10-20, a menu-focused polish pass on 2026-10-21, a homepage photo-preview refinement on 2026-10-22, and an eyebrow-free homepage simplification on 2026-10-23. The menu preserves all 169 printed entries and the original source taxonomy with a visible category index and mobile rail. The site is live at `https://tandoorijunctionmarkham.ca/` on the shared Hostinger VPS using isolated PHP 8.5.12 FPM and HTTPS. Fresh visual browser review is outstanding because no browser surface was available. Admin/database, booking and ordering remain outside the pages-only scope. The site stays noindex while printed prices, contact and image rights await owner verification. See `DESIGN.md` and `memory/HANDOFF.md`.
 
 ## Business evidence
 

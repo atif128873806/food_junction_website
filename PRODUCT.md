@@ -9,7 +9,7 @@ web
 User-specified: Laravel 12, Blade components, Tailwind CSS, Alpine.js, selective GSAP/ScrollTrigger, Filament, MySQL or PostgreSQL. Local Laravel 12 application exists in website/; Blade/Tailwind/Alpine/GSAP installed. Filament and database deferred.
 
 ## Product Purpose
-Restaurant discovery, menu browsing, visit information and catering inquiry for Tandoori Junction, Markham. The latest approved design is a light white/red, simple restaurant presentation. Five pages are implemented locally; admin/database/integrations are deferred.
+Restaurant discovery, menu browsing, visit information and catering inquiry for Tandoori Junction, Markham. The latest approved design is a light white/red restaurant presentation, with a printed-menu-inspired category reading experience. Five pages are implemented locally; admin/database/integrations are deferred.
 
 ## Users
 Proposed from brief: local diners browsing on phones, diners planning a visit, takeout customers and catering organizers. No primary-user interview conducted.

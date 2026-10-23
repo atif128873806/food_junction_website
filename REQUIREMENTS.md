@@ -46,3 +46,17 @@ R22 approved from the user's explicit implementation request: expand the homepag
 ## Latest scope — SRC-COMPLETION-006 / SRC-SCOPE-007
 
 2026-10-18 record: user approved immersive reference revision and requested completion, then explicitly clarified professional pages only, contents of supplied PDF and no booking policy. R09 first-slice stop satisfied; remainder implemented section by section. R07 database/Filament/admin deferred by latest scope. R10 temporary stock no longer permitted; supplied images only. R12/R13 remain unimplemented. R06 fulfilled with all169source entries, variants and12navigation groups retaining18exact leaves. Owner verification is a production prerequisite, not a blocker to printed local preview content per user's instruction.
+
+## 2026-10-21 menu usability revision
+
+R23 approved: the client wants a more polished non-generic site and especially an easier menu. Preserve the approved one-category-at-a-time, no-search source model while making categories visible, reading and price scanning easier, and cross-category navigation obvious. Direct user request; no new feature or factual claim approved.
+
+## 2026-10-22 homepage refinement
+
+R24 approved: polish the homepage and add one distinctive, attractive animation or interactive idea while retaining the confirmed brand, supplied TJ photography, useful menu/visit paths and reduced-motion support. Direct user request; no new business facts or features were approved.
+
+## 2026-10-23 deployment
+
+R25 approved: deploy the current five-page site to the user-supplied shared Hostinger VPS at `tandoorijunctionmarkham.ca` with HTTPS and a patched PHP runtime dedicated to this website. Preserve the other projects' Nginx routing, PHP handlers and system PHP choice. The public site stays noindex until the owner verifies printed menu details, contact information and supplied asset rights; the proof PDF stays private. This supersedes the earlier local-only deployment boundary but does not add booking, ordering, admin or database scope.
+
+R26 approved (2026-10-23): remove homepage eyebrow labels and the decorative leading line, further polish the homepage within the current light/red food-led design, then deploy the update. Preserve the supplied imagery, menu navigation, reduced-motion behavior and existing privacy controls.

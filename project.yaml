@@ -1,15 +1,15 @@
 version: 1
 id: tandoori-junction
 name: Tandoori Junction
-status: implementation
-description: Light white/red restaurant site in website/; system sans-serif, full-width PDF food hero with restrained GSAP motion, and a photo-led one-category menu without search. Five pages; no booking/admin/integrations.
+status: deployment
+description: Light white/red restaurant site in website/; five pages live at tandoorijunctionmarkham.ca on isolated PHP 8.5 FPM. Noindex pending owner content verification; no booking/admin/integrations.
 repository:
   path: /home/atif/junction_food_resturant_website
 stack:
   frontend: [Blade, Tailwind CSS, Alpine.js]
   backend: [Laravel 12]
   database: []
-  infrastructure: []
+  infrastructure: [Hostinger VPS, Ubuntu 24.04, Nginx, PHP 8.5 FPM]
 default_skills: [context-intake, research, frontend-ui-ux]
 tools:
   filesystem: true
@@ -18,7 +18,7 @@ tools:
   browser: true
   web: true
   github: false
-  deployment: false
+  deployment: true
 verification:
   - Run npm run build and php artisan test from website/.
   - Verify source menu and approval before application changes.
